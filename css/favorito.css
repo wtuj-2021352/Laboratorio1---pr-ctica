@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/fondo-favorito.jpg');
+    background-size: cover;
+}
+
+#accordionFlushExample {
+    max-width: 500px;
+    margin: 0;
+}
+
+#boton-nuevo {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #4C4438;
+    background-color: white;
+    border-radius: 15px;
+}

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/fondo-perfil.jpg');
+    background-size: cover;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #4C4438;
+    background-color: white;
+    border-radius: 15px;
+}
